@@ -1,1 +1,1 @@
-My first directory in this repo
+My first directory (0x03-git) in this repository
